@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PAGINACION_REACT_JS/static/css/main.1a355c5b.chunk.css",
+    "main.js": "/PAGINACION_REACT_JS/static/js/main.7d92132b.chunk.js",
+    "main.js.map": "/PAGINACION_REACT_JS/static/js/main.7d92132b.chunk.js.map",
+    "runtime-main.js": "/PAGINACION_REACT_JS/static/js/runtime-main.8f67d33e.js",
+    "runtime-main.js.map": "/PAGINACION_REACT_JS/static/js/runtime-main.8f67d33e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/PAGINACION_REACT_JS/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bbd13f1c.chunk.js": "/PAGINACION_REACT_JS/static/js/2.bbd13f1c.chunk.js",
+    "static/js/2.bbd13f1c.chunk.js.map": "/PAGINACION_REACT_JS/static/js/2.bbd13f1c.chunk.js.map",
+    "static/js/3.27909567.chunk.js": "/PAGINACION_REACT_JS/static/js/3.27909567.chunk.js",
+    "static/js/3.27909567.chunk.js.map": "/PAGINACION_REACT_JS/static/js/3.27909567.chunk.js.map",
+    "index.html": "/PAGINACION_REACT_JS/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/PAGINACION_REACT_JS/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.1a355c5b.chunk.css.map": "/PAGINACION_REACT_JS/static/css/main.1a355c5b.chunk.css.map",
+    "static/js/2.bbd13f1c.chunk.js.LICENSE.txt": "/PAGINACION_REACT_JS/static/js/2.bbd13f1c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/PAGINACION_REACT_JS/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f67d33e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bbd13f1c.chunk.js",
+    "static/css/main.1a355c5b.chunk.css",
+    "static/js/main.7d92132b.chunk.js"
+  ]
+}
