@@ -1,6 +1,6 @@
 # PAGINACIÓN REACT JS 
 
-En este ejemplos se utiliza un paquete llamado react-js-pagination para realizar la paginación .
+En este ejemplo se utiliza un paquete llamado react-js-pagination para realizar la paginación .
 
 *  npm install react-js-pagination
 
